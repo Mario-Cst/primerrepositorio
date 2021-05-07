@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header>
         <div className="imagen"> 
-            <h3>LOGOS</h3>
+            <h3>LOGOhhhSssSS</h3>
         </div>
         <div className="botonera">
             <p>How it works</p>
